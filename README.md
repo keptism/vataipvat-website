@@ -1,2 +1,0 @@
-# vtv-website
-VaTaipVat Website
